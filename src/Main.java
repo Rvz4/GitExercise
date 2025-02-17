@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Print("Hello Master!");
         Print("System.out.println -> Print");
-        Print("Dev ops stuff, ug");
+        Print("WOW: Jira issue branch");
     }
 
     public static void Print(String s) {
